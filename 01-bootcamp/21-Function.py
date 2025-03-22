@@ -1,15 +1,9 @@
-estilos_musicais = ['rock', 'jazz', 'blues', 'pop', 'reggae']
-# for estilo in estilos_musicais:
-#     if estilo == 'blues':
-#         print(estilo.upper())
+def Teste():
+    print("Hello World")
 
-# for estilo in estilos_musicais:
-#     if estilo == 'blues':
-#         break
-#     print(estilo.upper())
+#Teste()
 
+def Loggin(usuario, senha):
+    print(f"Loggin: {usuario} - {senha}")
 
-for estilo in estilos_musicais:
-    if estilo == 'blues':
-        continue
-    print(estilo.upper())
+Loggin("admin", "admin123")
