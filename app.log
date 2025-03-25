@@ -1,0 +1,5 @@
+DEBUG 25-03-2025 12:44:57: isso é um debug
+INFO 25-03-2025 12:44:57: isso é um info
+WARNING 25-03-2025 12:44:57: isso é um warning
+ERROR 25-03-2025 12:44:57: isso é um error
+CRITICAL 25-03-2025 12:44:57: isso é um critical
